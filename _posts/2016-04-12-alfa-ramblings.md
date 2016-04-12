@@ -5,9 +5,9 @@ inNav: true
 inLanguage: null
 starred: false
 keywords: []
-description: Alfa ramblings go here.
-datePublished: '2016-04-12T19:19:08.017Z'
-dateModified: '2016-04-12T19:17:39.862Z'
+description: "Alfa ramblings go here.\_"
+datePublished: '2016-04-12T19:30:17.749Z'
+dateModified: '2016-04-12T19:27:13.548Z'
 title: Alfa Ramblings
 author: []
 authors: []
