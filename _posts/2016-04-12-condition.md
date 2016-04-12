@@ -5,9 +5,9 @@ inNav: true
 inLanguage: null
 starred: false
 keywords: []
-description: Condition words and photos go here
-datePublished: '2016-04-12T19:19:08.142Z'
-dateModified: '2016-04-12T19:15:05.568Z'
+description: The condition words and photos are here.
+datePublished: '2016-04-12T19:30:17.504Z'
+dateModified: '2016-04-12T19:29:16.753Z'
 title: Condition
 author: []
 authors: []
@@ -22,4 +22,4 @@ url: condition/index.html
 _type: WebPage
 
 ---
-Condition words and photos go here
+The condition words and photos are here.
