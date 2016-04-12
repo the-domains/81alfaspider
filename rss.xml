@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[81AlfaSpider]]></title>
         <description><![CDATA[81AlfaSpider]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/81alfaspider/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 12 Apr 2016 19:19:16 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 12 Apr 2016 19:24:42 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/81alfaspider/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[The Spider]]></title>
-            <description><![CDATA[<article><h1>The Spider</h1><p>The Car</p></article>]]></description>
-            <link>undefinedthe-spider/index.html</link>
+            <title><![CDATA[Home]]></title>
+            <description><![CDATA[<article><h1>Home</h1><p>The Car</p></article>]]></description>
+            <link>https://thegrid.ai/81alfaspider/the-spider/index.html</link>
             <guid isPermaLink="false">16a30e2f-2d82-41a3-9843-fbaf78602a74</guid>
-            <pubDate>Tue, 12 Apr 2016 19:19:08 GMT</pubDate>
+            <pubDate>Tue, 12 Apr 2016 19:24:29 GMT</pubDate>
         </item>
     </channel>
 </rss>
