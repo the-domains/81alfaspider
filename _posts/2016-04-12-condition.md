@@ -5,10 +5,10 @@ inNav: true
 inLanguage: null
 starred: false
 keywords: []
-description: Condition of the Car
-datePublished: '2016-04-12T20:52:54.869Z'
-dateModified: '2016-04-12T20:52:52.214Z'
-title: Condition
+description: 'As the photos show, there is virtually no rust on the car anywhere. The exception is a small spot on the right side rocker panel where it always is on these cars. It is so minor I have not taken any action on it yet, as the cure would be worse than the disease at this point. '
+datePublished: '2016-04-12T22:06:49.181Z'
+dateModified: '2016-04-12T22:06:49.022Z'
+title: Condition Of The Car
 author: []
 sourcePath: _posts/2016-04-12-condition.md
 published: true
@@ -22,7 +22,7 @@ url: condition/index.html
 _type: WebPage
 
 ---
-**Condition of the Car**
+# Condition Of The Car
 
 ****
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c615b5d8-3c05-433f-9ae5-f61ab2a4d21f.jpg)
