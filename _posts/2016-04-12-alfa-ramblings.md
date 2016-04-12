@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: "If you are looking for an Alfa to buy, chances are I don’t have to tell you how much fun these cars are. I would guess this is one of several (many?) Alfa Romeo’s you have had in your life to this point. Just in case you have not owned an Alfa before, let me say these cars are really\_fun.\_"
-datePublished: '2016-04-12T21:14:13.874Z'
-dateModified: '2016-04-12T21:14:10.647Z'
+datePublished: '2016-04-12T22:02:23.838Z'
+dateModified: '2016-04-12T22:02:21.696Z'
 title: 'Alfa Ramblings '
 author: []
 sourcePath: _posts/2016-04-12-alfa-ramblings.md
