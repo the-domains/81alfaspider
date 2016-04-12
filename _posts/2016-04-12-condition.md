@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Condition of the Car
-datePublished: '2016-04-12T20:46:32.658Z'
-dateModified: '2016-04-12T20:46:22.150Z'
+datePublished: '2016-04-12T20:52:54.869Z'
+dateModified: '2016-04-12T20:52:52.214Z'
 title: Condition
 author: []
 sourcePath: _posts/2016-04-12-condition.md
@@ -38,5 +38,5 @@ Cincinnati had emissions testing when we bought the car, so we put the air pump 
 The radiator fan has been replaced with an electric fan, and the thermostatic actuator has been replaced by a fixed position dummy actuator to keep the car in warm running mode.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/50305bb5-18d5-4e71-8f65-ba57d78cc906.jpg)
 
-The car starts and runs well. The tires are from the '80's so I don't go zooming hard cornering on them, but I do run it on local roads up to 55 or 60 mph.
+The car starts and runs well. I don't go zooming hard cornering these days, but I do run it on local roads up to 55 or 60 mph.
 !["LOOK MA! No rust!"](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c123848e-b0bf-4a97-b121-68614d33ff8e.jpg)
