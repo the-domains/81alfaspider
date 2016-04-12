@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[81AlfaSpider]]></title>
+        <description><![CDATA[81AlfaSpider]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 12 Apr 2016 19:19:16 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The Spider]]></title>
+            <description><![CDATA[<article><h1>The Spider</h1><p>The Car</p></article>]]></description>
+            <link>undefinedthe-spider/index.html</link>
+            <guid isPermaLink="false">16a30e2f-2d82-41a3-9843-fbaf78602a74</guid>
+            <pubDate>Tue, 12 Apr 2016 19:19:08 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
