@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[81AlfaSpider]]></title>
+        <description><![CDATA[81AlfaSpider]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 20 Apr 2016 19:28:15 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Thank you ]]></title>
+            <description><![CDATA[<article><h1>Thank you </h1><p>for taking the time to check out our Alfa. As you see, it is in great condition, it starts, runs and looks pretty much as it did when purchased by the original owner. I am the second owner, since 1987. It has been garaged all of it's life. (Click the pics to see full size and original color.) </p></article>]]></description>
+            <link>undefinedthank-you/index.html</link>
+            <guid isPermaLink="false">efc0194a-2519-45d7-9991-2f9f42c0e9d5</guid>
+            <pubDate>Wed, 20 Apr 2016 19:28:14 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
