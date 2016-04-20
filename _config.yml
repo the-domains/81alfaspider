@@ -1,19 +1,4 @@
-name: 81AlfaSpider
-favicon: null
-layout_spectrum: 0.504223
-typography_spectrum: 0.54603
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+analytics: {}
 color:
   brandColors:
     - '#100e0f'
@@ -23,6 +8,11 @@ color:
     - '#fffdfe'
   brandStrength: 0.686043395427987
   lightness: 0.2651996451895684
-  saturation: 0.7042466208804399
   rhythmicContrast: 0.5001765403430909
+  saturation: 0.7042466208804399
+cta: {}
+layout_spectrum: 0.707589
+name: 81AlfaSpider
+opengraph: {}
 purpose: []
+typography_spectrum: 0.54603
