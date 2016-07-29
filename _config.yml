@@ -1,4 +1,20 @@
-analytics: {}
+name: 81AlfaSpider
+favicon: null
+layout_spectrum: 0.551339
+typography_spectrum: 0.54603
+title: 81 Alfa Romeo Spider Veloce
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
   brandColors:
     - '#100e0f'
@@ -8,11 +24,6 @@ color:
     - '#fffdfe'
   brandStrength: 0.686043395427987
   lightness: 0.2651996451895684
-  rhythmicContrast: 0.5001765403430909
   saturation: 0.7042466208804399
-cta: {}
-layout_spectrum: 0.551339
-name: 81AlfaSpider
-opengraph: {}
+  rhythmicContrast: 0.5001765403430909
 purpose: []
-typography_spectrum: 0.54603
