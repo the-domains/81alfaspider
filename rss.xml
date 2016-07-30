@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[81 Alfa Romeo Spider Veloce]]></title>
         <description><![CDATA[81 Alfa Romeo Spider Veloce]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/81alfaspider/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 30 Jul 2016 14:57:03 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 30 Jul 2016 15:39:31 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/81alfaspider/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Thank you]]></title>
             <description><![CDATA[<p>Thank you </p>]]></description>
-            <link>undefinedthank-you/index.html</link>
+            <link>https://thegrid.ai/81alfaspider/thank-you/index.html</link>
             <guid isPermaLink="false">123c081a-f26f-4350-b0d3-16532ae7a9ad</guid>
-            <pubDate>Sat, 30 Jul 2016 14:57:01 GMT</pubDate>
+            <pubDate>Sat, 30 Jul 2016 15:39:29 GMT</pubDate>
         </item>
     </channel>
 </rss>
