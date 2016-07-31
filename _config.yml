@@ -28,6 +28,9 @@ navigation:
   - name: Condition of The Car
     id: 284cf28e-9813-4e58-b5b1-069aceb00693
     type: content
+  - name: The History Of The Car
+    id: 23735bdf-29ba-4954-bef7-f18946b648a4
+    type: content
 favicon: null
 title: 81 Alfa Romeo Spider Veloce
 description: Fun For Sale
