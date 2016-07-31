@@ -34,6 +34,9 @@ navigation:
   - name: 'Alfa Ramblings '
     id: 755f8cf5-01d0-470d-b2a2-4ad27f5d0e58
     type: content
+  - name: Thank you
+    id: 123c081a-f26f-4350-b0d3-16532ae7a9ad
+    type: content
 favicon: null
 title: 81 Alfa Romeo Spider Veloce
 description: Fun For Sale
