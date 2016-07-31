@@ -3,21 +3,17 @@ inFeed: false
 hasPage: true
 inNav: true
 inLanguage: null
-starred: false
 keywords: []
 description: "If you are looking for an Alfa to buy, chances are I don’t have to tell you how much fun these cars are. I would guess this is one of several (many?) Alfa Romeo’s you have had in your life to this point. Just in case you have not owned an Alfa before, let me say these cars are really\_fun.\_"
-datePublished: '2016-04-12T22:07:37.635Z'
-dateModified: '2016-04-12T22:07:24.273Z'
+datePublished: '2016-07-31T03:06:57.335Z'
+dateModified: '2016-07-31T03:06:56.894Z'
 title: 'Alfa Ramblings '
 author: []
 sourcePath: _posts/2016-04-12-alfa-ramblings.md
-published: true
 authors: []
-publisher:
-  name: null
-  domain: null
-  url: null
-  favicon: null
+publisher: {}
+via: {}
+starred: false
 url: alfa-ramblings/index.html
 _type: WebPage
 
