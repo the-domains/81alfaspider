@@ -1,24 +1,20 @@
 ---
+datePublished: '2016-07-31T03:15:44.794Z'
+sourcePath: _posts/2016-04-12-condition.md
 inFeed: false
+authors: []
 hasPage: true
-inNav: true
-inLanguage: null
 keywords: []
-description: ''
-datePublished: '2016-07-31T03:06:33.895Z'
-dateModified: '2016-07-31T03:06:33.280Z'
-title: Condition Of The Car
 author:
   - name: ''
     url: ''
-sourcePath: _posts/2016-04-12-condition.md
-authors: []
-publisher:
-  name: ''
-  domain: null
-  url: ''
-  favicon: null
 via: {}
+dateModified: '2016-07-31T03:15:44.401Z'
+title: Condition Of The Car
+publisher: {}
+description: 'The car is in excellent condition - body, interior and mechanically.'
+inLanguage: null
+inNav: true
 starred: false
 url: condition/index.html
 _type: WebPage
@@ -26,10 +22,11 @@ _type: WebPage
 ---
 # Condition Of The Car
 
-****
+The car is in excellent condition - body, interior and mechanically.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c615b5d8-3c05-433f-9ae5-f61ab2a4d21f.jpg)
 
-As the photos show, there is virtually no rust on the car anywhere. The exception is a small spot on the right side rocker panel where it always is on these cars. It is so minor I have not taken any action on it yet, as the cure would be worse than the disease at this point. ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/106d1292-81c8-47da-861b-defd1b878436.jpg)
+As the photos show, there is virtually no rust on the car anywhere. The exception is a small spot on the right side rocker panel where it always is on these cars. It is so minor I have not taken any action on it yet, as the cure would be worse than the disease at this point.
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/106d1292-81c8-47da-861b-defd1b878436.jpg)
 
 The wheels are original, as is the top. Upholstery and carpeting throughout is original. The steering wheel is a smaller diameter padded leather aftermarket wheel installed by the original owner.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/15917a50-bdef-4453-9dca-719c36c2b6bd.jpg)
