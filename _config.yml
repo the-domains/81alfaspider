@@ -1,20 +1,4 @@
-name: 81AlfaSpider
-favicon: null
-layout_spectrum: 0.5524
 typography_spectrum: 0.54603
-title: 81 Alfa Romeo Spider Veloce
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#100e0f'
@@ -26,4 +10,21 @@ color:
   lightness: 0.2651996451895684
   saturation: 0.7042466208804399
   rhythmicContrast: 0.5001765403430909
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.5524
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: 81AlfaSpider
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: 81 Alfa Romeo Spider Veloce
+description: Fun For Sale
 purpose: []
