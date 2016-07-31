@@ -31,6 +31,9 @@ navigation:
   - name: The History Of The Car
     id: 23735bdf-29ba-4954-bef7-f18946b648a4
     type: content
+  - name: 'Alfa Ramblings '
+    id: 755f8cf5-01d0-470d-b2a2-4ad27f5d0e58
+    type: content
 favicon: null
 title: 81 Alfa Romeo Spider Veloce
 description: Fun For Sale
