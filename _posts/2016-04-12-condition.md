@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-05T15:36:11.342Z'
+datePublished: '2016-08-05T15:56:57.663Z'
 sourcePath: _posts/2016-04-12-condition.md
 inFeed: false
 authors: []
@@ -9,7 +9,7 @@ author:
   - name: ''
     url: ''
 via: {}
-dateModified: '2016-08-05T15:36:10.889Z'
+dateModified: '2016-08-05T15:56:57.043Z'
 title: Condition Of The Car
 publisher: {}
 description: 'The car is in excellent condition - body, interior and mechanically.'
@@ -34,6 +34,7 @@ The wheels are original, as is the top. Upholstery and carpeting throughout is o
 Cincinnati had emissions testing when we bought the car, so we put the air pump and other pollution equipment back on that the original owner had removed. The car did pass the Ohio emissions testing.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8235a91a-5bab-42ac-b7d8-b4ba09c47ebd.jpg)
 
-The radiator fan has been replaced with an electric fan, and the thermostatic actuator has been replaced by a fixed position dummy actuator to keep the car in warm running mode. The alternator is about five years old, the starter about one year. The clutch slave cylinder was changed out only a couple month ago. The fuel tank was removed, cleaned and sealed two years ago, and all the rubber hoses were replaced with new silicone hoses. ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/50305bb5-18d5-4e71-8f65-ba57d78cc906.jpg)
+The radiator fan has been replaced with an electric fan, and the thermostatic actuator has been replaced by a fixed position dummy actuator to keep the car in warm running mode. ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/50305bb5-18d5-4e71-8f65-ba57d78cc906.jpg)
 
-The car starts and runs well. !["LOOK MA! No rust!"](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c123848e-b0bf-4a97-b121-68614d33ff8e.jpg)
+The car starts and runs well.
+!["LOOK MA! No rust!"](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c123848e-b0bf-4a97-b121-68614d33ff8e.jpg)
