@@ -1,26 +1,31 @@
 ---
-inFeed: false
-hasPage: true
-inNav: true
-inLanguage: null
-keywords: []
-description: "If you are looking for an Alfa to buy, chances are I don’t have to tell you how much fun these cars are. I would guess this is one of several (many?) Alfa Romeo’s you have had in your life to this point. Just in case you have not owned an Alfa before, let me say these cars are really\_fun.\_"
-datePublished: '2016-07-31T03:06:57.335Z'
-dateModified: '2016-07-31T03:06:56.894Z'
-title: 'Alfa Ramblings '
-author: []
+datePublished: '2016-08-06T01:33:14.546Z'
 sourcePath: _posts/2016-04-12-alfa-ramblings.md
+inFeed: false
 authors: []
-publisher: {}
+hasPage: true
+keywords: []
+author: []
 via: {}
+dateModified: '2016-08-06T01:33:13.813Z'
+title: Alfa Ramblings
+publisher: {}
+description: >-
+  If you are looking for an Alfa to buy, chances are I don’t have to tell you
+  how much fun these cars are. I would guess this is one of several (many?) Alfa
+  Romeo’s you have had in your life to this point. Just in case you have not
+  owned an Alfa before, let me say these cars are really fun.
+inLanguage: null
+inNav: true
 starred: false
 url: alfa-ramblings/index.html
 _type: WebPage
 
 ---
-# Alfa Ramblings 
+# Alfa Ramblings
 
-If you are looking for an Alfa to buy, chances are I don't have to tell you how much fun these cars are. I would guess this is one of several (many?) Alfa Romeo's you have had in your life to this point. Just in case you have not owned an Alfa before, let me say these cars are really fun. ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/2003e9de-a990-414d-bd8c-8bcbe8a339ab.jpg)
+If you are looking for an Alfa to buy, chances are I don't have to tell you how much fun these cars are. I would guess this is one of several (many?) Alfa Romeo's you have had in your life to this point. Just in case you have not owned an Alfa before, let me say these cars are really fun.
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/2003e9de-a990-414d-bd8c-8bcbe8a339ab.jpg)
 
 And they come with a very enthusiastic, informed and helpful owner community. I've never had a problem finding parts for the car, or qualified expertise and advice.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/21dbf21b-09cc-4799-8b57-2018abd7ddd5.jpg)
@@ -29,10 +34,10 @@ This car is our third Alfa. The first was a Black 1978 Alfetta 2000 Sedan (calle
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8b7b291c-e67b-47f4-9a52-4bc4b63465f4.jpg)
 
 The second Alfa was a white 1968/9 Duetto with Italian guages which we rescued from an equipment shed on a farm in Indiana. Yes, the seller said he just rebuilt the engine, but when it quit running on the drive home, I didn't trust his workmanship and with help from herself, pulled the motor, found another 1600 motor, took both motors apart and built one good one, using new parts for all the important bits. As soon as it was running again we took a break-in drive from Cincinnati to Cleveland and return via the back roads, and not long after we set out in the Duetto to attend the AROC National Convention in Seattle, WA. We came back through Canada via the Canadian Rockies. Darn good vacation. Highly recommended.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4b2206ab-32a8-45b1-b174-7d2f048cd016.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/68cdc1e8fe420bcb06d4755a06d84e2fea39f596.jpg)
 
 We owned both of these cars at the same time, and called them "The Black Car" and "The White Car" as in "Honey, do you mind if I take The White Car today?" Then we sold them both. I don't remember why, but I do know three cars in a two-car garage was a bit crowded. We were without an Alfa for a year or two, and realizing our folly, we went looking for a good used Spider in 1987\. Working my contacts in the Alfa world - which were considerable in Cincinnati at the time - I heard about this sweet 81 Spider for sale in Columbus, OH. The rest, as they say, is history.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e0d7aee0-e341-4f71-ae09-403a1b77cb16.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/71a1a10f4b5f2fa31e7bad1a80ff32e04ae1c634.jpg)
 
 The car was our toy car, only driven when we were going out for a recreational drive. Sometimes if the weather was fine I would drive it to the climbing gym. I don't remember taking any long trips in the car, just one day out and return stuff. The back roads around south western Ohio were perfect Alfa roads.We didn't need to go far to enjoy the car.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/06ea6b34-31e1-47ad-ad0f-e9cf21b462eb.jpg)
@@ -49,7 +54,5 @@ Once in Florida we found a LOT of new things to occupy our time. Alfie is the on
 Needing a place to park at least one of our daily drivers out of the elements we have decided to sell the Spider and reclaim both time and space for our current favorite activities. Blame the boring roads around here, or the crazy drivers, or the back roads of southwestern Ohio for spoiling us.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0590fe6e-f9c2-4dd4-9091-829864a7f624.jpg)
 
-If does seem a little sad looking at being without an Alfa after owning one for 35 of the past 38 years. Who knows? Maybe we'll find we need another one again.
+It does seem a little sad looking at being without an Alfa after owning one for 35 of the past 38 years. Who knows? Maybe we'll find we need another one again.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/dc3867c2-0c2b-460e-9474-8537222b6482.jpg)
-
-****
